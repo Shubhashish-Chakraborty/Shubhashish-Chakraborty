@@ -2,7 +2,7 @@
 # 😎 Shubhashish Chakraborty:
 -->
 <p align="center">
-  🔭 **I’m a Tech Enthusiast, Working on my Skills & Developing it.**  
+  🔭 **I’m a Tech Enthusiast, Developing Daaa Skillzzzz!!**  
 </p>
 
 <div align="center">
