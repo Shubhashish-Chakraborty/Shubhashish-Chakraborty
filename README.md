@@ -5,7 +5,8 @@
 <div align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=Shubhashish-Chakraborty&show_icons=true&count_private=true&theme=darcula&hide=issues&hide_border=true&bg_color=00000000">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhashish-Chakraborty&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,mdx,tex,html,lua,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Shubhashish-Chakraborty&theme=darcula&hide_border=true&background=FFFFFF00">
+<!--   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Shubhashish-Chakraborty&theme=darcula&hide_border=true&background=FFFFFF00"> -->
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Shubhashish-Chakraborty&theme=dracula">
 </div>
 
 
