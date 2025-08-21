@@ -11,8 +11,12 @@
 
 
 <br/>
-<br/>
-<br/>
+
+<p align="center">
+  <a href="https://avipatilweb.me/">
+    <img src="https://komarev.com/ghpvc/?username=Shubhashish-Chakraborty&label=Profile%20Visitors&color=0e75b6&style=flat" alt="Profile Visitors"/>
+  </a>
+</p>
 
 <div align="center">
   
