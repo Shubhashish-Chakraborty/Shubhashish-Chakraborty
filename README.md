@@ -26,6 +26,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://github-activity-graph.vercel.app/graph?username=Shubhashish-Chakraborty&theme=github-compact" />
+</p>
+
 <!--
 # 💻 Tech Stack:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
