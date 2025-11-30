@@ -2,6 +2,10 @@
 # 😎 Shubhashish Chakraborty:
 -->
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubhashish-Chakraborty&theme=monokai&no-frame=true&margin-w=15&column=5"/>
+</p>
+
 <div align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=Shubhashish-Chakraborty&show_icons=true&count_private=true&theme=darcula&hide=issues&hide_border=true&bg_color=00000000">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhashish-Chakraborty&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,mdx,tex,html,lua,php&exclude_repo=Pacman-AI">
@@ -28,6 +32,10 @@
 
 <p align="center">
   <img src="https://github-activity-graph.vercel.app/graph?username=Shubhashish-Chakraborty&theme=github-compact" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
 <!--
