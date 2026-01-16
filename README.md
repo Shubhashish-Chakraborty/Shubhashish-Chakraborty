@@ -33,6 +33,9 @@
 <p align="center">
   <img src="https://github-activity-graph.vercel.app/graph?username=Shubhashish-Chakraborty&theme=github-compact" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubhashish-Chakraborty&theme=tokyonight" alt="profile details"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
